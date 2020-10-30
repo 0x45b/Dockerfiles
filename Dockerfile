@@ -1,3 +1,3 @@
 FROM python:3.6
 
-COPY pip.conf /root/.pip/
+COPY pip.conf /etc/pip.conf
